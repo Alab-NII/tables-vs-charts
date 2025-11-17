@@ -1,6 +1,6 @@
 # Format Matters: Tables vs. Charts
 
-This is the repository for the paper: [Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts]
+This is the repository for the paper: [Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075)
 (AAAI 2026) 
 
 ## Reproduction of Results
